@@ -1,4 +1,4 @@
-README：TortoiseGitのインストール
+README：TortoiseGitのインストール(リモートデスクトップ側)
 
 「以下を参照」
 http://moondoldo.com/DoldoWorkz/index.php?Git%2FWindows%E3%81%A7%E4%BD%BF%E3%81%86%28msysgit%E3%83%BBTortoiseGit%29
@@ -20,3 +20,6 @@ http://moondoldo.com/DoldoWorkz/index.php?Git%2FWindows%E3%81%A7%E4%BD%BF%E3%81%
 	ユーザ名			Uxxxxxx(自ID)
 
 	パスワード			xxxxxxx(自Password)
+
+
+※開発ノートPCではGitHub.exeを実行しインストール（手順は秋谷さんメール）
