@@ -22,4 +22,4 @@ http://moondoldo.com/DoldoWorkz/index.php?Git%2FWindows%E3%81%A7%E4%BD%BF%E3%81%
 	パスワード			xxxxxxx(自Password)
 
 
-※開発ノートPCではGitHub.exeを実行しインストール（手順は秋谷さんメール）
+※開発ノートPCではGitHub.exeを実行しインストール（手順は秋谷さんメールを参照）
