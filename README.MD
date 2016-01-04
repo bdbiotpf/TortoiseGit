@@ -26,11 +26,17 @@ http://moondoldo.com/DoldoWorkz/index.php?Git%2FWindows%E3%81%A7%E4%BD%BF%E3%81%
 
 
 　基本動作：
+　
 　・TortoiseGitではクローンやリポジトリのウインドウで右クリック
+　
 	Git同期：最新化
+	
 	Gitコミット：更新ファイルのアップロード
 
+
 　・GitHubではアプリを起動後
+　
 	Historyボタン、Syncボタン：最新化
+	
 	Changesボタン：ファイルを選択後、Commit：更新ファイルのアップロード
 
