@@ -1,9 +1,9 @@
-README�FTortoiseGit�̃C���X�g�[��
+README：TortoiseGitのインストール
 
-�u�ȉ����Q�Ɓv
+「以下を参照」
 http://moondoldo.com/DoldoWorkz/index.php?Git%2FWindows%E3%81%A7%E4%BD%BF%E3%81%86%28msysgit%E3%83%BBTortoiseGit%29
 
-�P�D�t�@�C���̃_�E�����[�h
-�Q�D
-�R�D
-�S�D�v���L�V�̐ݒ�
+１．ファイルのダウンロード
+２．
+３．
+４．プロキシの設定
